@@ -17,8 +17,8 @@ class StatisticsServiceTest {
 
     assertEquals(expected, actual);
   }
-}
-  /*@Test
+
+  @Test
   void findMaxOnProgressiveValues() {
     StatisticsService service = new StatisticsService();
 
@@ -29,4 +29,4 @@ class StatisticsServiceTest {
 
     assertEquals(expected, actual);
   }
-}*/
+}
